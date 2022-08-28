@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**TyreqPW/TyreqPW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tyreq and I am a self-taught Data Analyst from :us: United States
 
-Here are some ideas to get you started:
+## :clock10: About me under 10 secs :clock10:
+* :books: Currently enrolled at BHCC for CIT since 2017
+* :bar_chart: Self-taught Data Analyst since June 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :bulb: Currently Learning :bulb:
+* SQL, Tableau, Excel
+
+## :star: Skills :star:
+* Data Cleaning/Wrangling 
+* Data visualization
+
+### Fun facts:
+* :musical_keyboard: Music School from 2012-2017
+* :computer: Self-taught modeling in Blender
+
