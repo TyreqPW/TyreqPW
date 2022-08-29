@@ -15,6 +15,6 @@ My name is Tyreq and I am a self-taught Data Analyst from :us: United States
 
 ### Fun facts:
 * :musical_keyboard: Music School from 2012-2017
-* :computer: Self-taught modeling in Blender
+* :computer: Self-taught modeling in Blender (for games)
 
 # :file_folder: [Portfolio](https://github.com/TyreqPW/DA_Portfolio)
