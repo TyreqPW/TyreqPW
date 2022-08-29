@@ -19,4 +19,4 @@ My name is Tyreq and I am a self-taught Data Analyst from :us: United States
 
 # Portfolio Links
 
-* [Portfolio 1](https://github.com/TyreqPW/DA_Portfolio)
+* :file_folder: [Portfolio 1](https://github.com/TyreqPW/DA_Portfolio)
