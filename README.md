@@ -7,7 +7,7 @@ My name is Tyreq and I am a self-taught Data Analyst from :us: United States
 * :bar_chart: Self-taught Data Analyst since June 2022
 
 ## :bulb: Currently Learning :bulb:
-* SQL, Tableau, Excel
+* SQL, Tableau, Excel (Intermediate)
 
 ## :star: Skills :star:
 * Data Cleaning/Wrangling 
