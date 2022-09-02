@@ -2,19 +2,19 @@
 
 My name is Tyreq and I am a self-taught Data Analyst from :us: United States
 
-## :clock10: About me under 10 secs :clock10:
-* :books: Currently enrolled at BHCC for CIT since 2017 (AS)
-* :bar_chart: Self-taught Data Analyst since June 2022
+## About me under 10 secs
+* Currently enrolled at BHCC for CIT since 2017 (AS)
+* Self-taught Data Analyst since June 2022
 
-## :bulb: Currently Learning :bulb:
+## Currently Learning
 * SQL, Tableau, Excel (Intermediate)
 
-## :star: Skills :star:
+## Skills
 * Data Cleaning/Wrangling 
 * Data visualization
 
 ### Fun facts:
-* :musical_keyboard: Music School from 2012-2017
-* :computer: Self-taught modeling in Blender (for games)
+*  Attended Boston School of Music Arts from 2012-2017
+*  Self-taught modeling in Blender (for games)
 
-# :file_folder: [Portfolio](https://github.com/TyreqPW/DA_Portfolio)
+# [Portfolio](https://github.com/TyreqPW/DA_Portfolio)
