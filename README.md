@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Tyreq and I am a self-taught Data Analyst from :us: United States
+My name is Tyreq and I am a self-taught Data Analyst from United States
 
 ## About me under 10 secs
 * Currently enrolled at BHCC for CIT since 2017 (AS)
