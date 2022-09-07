@@ -3,6 +3,7 @@
 My name is Tyreq and I am a self-taught Data Analyst from United States
 
 # [Portfolio](https://github.com/TyreqPW/DA_Portfolio)
+* Project 1: [Monkeypox Analysis](https://github.com/TyreqPW/DA_Portfolio/blob/main/Project1/Project1Analysis.md)
 
 ## About me under 10 secs
 * Currently enrolled at BHCC for CIT since 2017 (AS)
