@@ -2,7 +2,7 @@
 
 My name is Tyreq and I am a self-taught Data Analyst from United States
 
-# [Portfolio](https://github.com/TyreqPW/DA_Portfolio)
+# Portfolio
 * Project 1: [Monkeypox Analysis](https://github.com/TyreqPW/DA_Portfolio/tree/main/Project1)
 * Project 2: [Human Resources Analysis](https://github.com/TyreqPW/DA_Portfolio/tree/main/Project2)
 
